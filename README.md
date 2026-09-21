@@ -1,3 +1,5 @@
+### MOVED TO https://github.com/broke-tech/android-flashing-shortcuts/
+
 # <img width="300" height="100" alt="logo" src="https://github.com/user-attachments/assets/8556b2a4-1970-496a-9eb8-7468d2ecd2b6" /> 
 # AFS - Android Flashing Shortcuts
 <img width="1239" height="752" alt="image" src="https://github.com/user-attachments/assets/5ef551cf-ace9-4b94-ab0a-9827fe7fc116" /><img width="1239" height="752" alt="image" src="https://github.com/user-attachments/assets/733d081e-4a30-4051-8f72-fe29870e9055" /><img width="1239" height="752" alt="image" src="https://github.com/user-attachments/assets/383f0ae6-04be-4b2b-83e7-c39bf3a152d7" />
